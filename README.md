@@ -1,5 +1,5 @@
 # yourBrand-Template
 
-HTML / CSS3 Template - Video Clip Attatched
+HTML / CSS3 Template - Screenshots Attatched
 
 
